@@ -57,7 +57,7 @@ print(prediction)
 - Deployment of a web-based visualization tool.
 
 ## Authors
-- **Divya**
+- **D.EESHA**
 
 ## References
 - Research papers and datasets used in this project.
